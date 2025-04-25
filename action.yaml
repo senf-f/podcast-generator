@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Generator Podcasta"
 author: "Jozo"
 description: "Generates a podcast feed from a YAML file"
 runs:
